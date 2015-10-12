@@ -712,5 +712,3 @@ menu = H.menu C.menuAttributes
 
 menu' : String -> Html
 menu' s = menu [H.text s]
-
-
