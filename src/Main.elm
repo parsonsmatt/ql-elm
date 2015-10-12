@@ -1,6 +1,7 @@
 module Main where
 
-import MultiCounter exposing (init, update, view)
+import QuickLift exposing (init, update, view)
+
 import StartApp.Simple exposing (start)
 
 main =
